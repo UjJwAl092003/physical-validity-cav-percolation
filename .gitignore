@@ -1,0 +1,15 @@
+# Datasets (Large binary files)
+data_corrupted/
+highD-dataset-v1.0/
+*.npz
+*.csv.tar.gz
+
+# Python cache and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local environments
+venv/
+env/
+.env

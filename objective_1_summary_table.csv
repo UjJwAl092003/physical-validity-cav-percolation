@@ -1,0 +1,4 @@
+Condition,Penetration,Evaluated Seeds,Ground Truth IR (%),Ch1 (KF) IR (%),Fully Imputed IR (%),Accel Violations (%),Curvature Violations (%)
+penetration_10,10%,20,1.01 ± 0.30,0.83 ± 0.23,78.39 ± 1.00,78.39 ± 1.00,11.35 ± 0.94
+penetration_20,20%,20,1.02 ± 0.21,0.86 ± 0.20,78.50 ± 0.60,78.49 ± 0.61,11.91 ± 0.73
+penetration_30,30%,20,1.33 ± 0.17,1.15 ± 0.16,78.57 ± 0.63,78.56 ± 0.63,12.71 ± 0.76
