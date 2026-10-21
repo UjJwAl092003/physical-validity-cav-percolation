@@ -125,8 +125,7 @@ Run all cells (`Cell` $\to$ `Run All`). The notebook executes the kinematic form
 | :--- | :--- |
 | **Ujjwal Singh** | 262IS036 |
 | **Siddharth Patidar** | 262CS031 |
-| **Sagar Kushwah** | 262CS025 |
-| **Dev** | 252IS011 |
+| **Sagar Kushwah** | 262IS025 |
 
 ---
 
