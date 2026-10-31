@@ -3,6 +3,8 @@ data_corrupted/
 highD-dataset-v1.0/
 *.npz
 *.csv.tar.gz
+*.zip
+submission_package/
 
 # Python cache and checkpoints
 __pycache__/
